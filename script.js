@@ -45,21 +45,21 @@ async function getSongs() {
         
         // ✅ UPDATE: Aapki image ke mutabik exact song names yahan set kar diye hain.
         // GitHub Pages par yahi array kaam karega. Ensure karein ki folder ka naam 'songs' hi ho.
-        songs = [
-            "songs/song (1).mp3",
-            "songs/song (2).mp3",
-            "songs/song (3).mp3",
-            "songs/song (4).mp3",
-            "songs/song (5).mp3",
-            "songs/song (6).mp3",
-            "songs/song (7).mp3",
-            "songs/song (8).mp3",
-            "songs/song (9).mp3",
-            "songs/song (10).mp3",
-            "songs/song (11).mp3",
-            "songs/song (12).mp3",
-            "songs/song (13).mp3"
-        ];
+     songs = [
+    "song (1).mp3",
+    "song (2).mp3",
+    "song (3).mp3",
+    "song (4).mp3",
+    "song (5).mp3",
+    "song (6).mp3",
+    "song (7).mp3",
+    "song (8).mp3",
+    "song (9).mp3",
+    "song (10).mp3",
+    "song (11).mp3",
+    "song (12).mp3",
+    "song (13).mp3"
+];
         
         return songs;
     }
